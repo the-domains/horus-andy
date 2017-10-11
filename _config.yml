@@ -1,0 +1,23 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Horus & Andy
+layout_spectrum: 0.7511608528438956
+typography_spectrum: 0.5072666797786951
+color:
+  brandStrength: 0.16185916191898286
+  lightness: 0.29462860827334225
+  saturation: 0.9836212408263236
+  rhythmicContrast: 0.6064975713379681
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+content: []
+github: true
